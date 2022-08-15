@@ -8,6 +8,9 @@ import ColorScreen from './src/screen/ColorScreen';
 import SquareScreen from './src/screen/SquareScreen';
 import BoxScreen from './src/screen/Chap7/BoxScreen';
 import BoxScreen2 from './src/screen/Chap7/BoxScreen2';
+
+
+
 const Stack = createNativeStackNavigator();
 
 function App() {
